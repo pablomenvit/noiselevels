@@ -1,0 +1,10 @@
+{
+    "SSID": "RED_WIFI",
+    "PASSWORD": "PASSWORD_WIFI",
+    "INFLUX_URL": "https://us-east-1-1.aws.cloud2.influxdata.com/api/v2/write",
+    "INFLUX_TOKEN": "TOKEN_INFLUXDB",
+    "INFLUX_ORG": "Xorg",
+    "INFLUX_BUCKET": "noiselevels",
+    "CLASSROOM": 207,
+    "PIN_SENSOR": 33
+}
